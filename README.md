@@ -1,1 +1,3 @@
 # Linked_List
+
+This repository features custom implementations of single and double linked lists in C. Linked lists are essential data structures for storing and managing data collections. The single linked list comprises nodes with data fields and references to the next node, while the double linked list adds references to both the next and previous nodes. These implementations offer functions for creating, inserting, deleting, and traversing nodes. Well-commented and designed for clarity and efficiency, they serve as valuable resources for understanding and implementing linked lists. Developers are invited to explore, contribute, and provide feedback for continual improvement.
